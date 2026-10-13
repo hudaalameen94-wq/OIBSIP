@@ -8,7 +8,7 @@ A clean, fully functional Android calculator that handles basic arithmetic with 
 
 ## Screenshot
 
-![Calculator App](screenshots/calculator.png)
+CalculatorApp/screenshots/calculator.png
 
 ## Features
 
