@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="app_title">Unit Converter</string>
+    <string name="label_category">Category</string>
+    <string name="label_from">From</string>
+    <string name="label_to">To</string>
+    <string name="hint_value">Enter a value</string>
+    <string name="button_convert">Convert</string>
+    <string name="result_placeholder">Your result will appear here</string>
+    <string name="error_empty">Please enter a value first</string>
+    <string name="error_not_number">Please enter a valid number</string>
+    <string name="error_below_zero">That temperature is below absolute zero</string>
+</resources>
