@@ -1,6 +1,6 @@
 # OIBSIP — Oasis Infobyte Summer Internship Program
 
-**Name:** Huda Saeed Othman Al-ameen  
+**Name:** Huda Saeed Othman Al-amin  
 **Track:** Android App Development  
 **Program:** Oasis Infobyte SIP (Summer Internship Program)
 
@@ -17,6 +17,6 @@ Each task folder includes:
 
 | Task | Status |
 |------|--------|
-| Task 1 | 🔲 In Progress |
-| Task 2 | 🔲 Not Started |
-| Task 3 | 🔲 Not Started |
+| Task 1 | 🔲 Completed |
+| Task 2 | 🔲 Completed |
+| Task 3 | 🔲 Completed |
