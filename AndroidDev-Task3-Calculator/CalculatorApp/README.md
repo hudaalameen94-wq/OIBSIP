@@ -1,6 +1,6 @@
 # Task 3 — Calculator App
 
-**Name:** Huda Saeed Othman Al-ameen
+**Name:** Huda Saeed Othman Al-amin
 **Track:** Android App Development
 **Program:** Oasis Infobyte Summer Internship Program (OIBSIP)
 
